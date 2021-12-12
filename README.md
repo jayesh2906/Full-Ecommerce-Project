@@ -18,9 +18,9 @@ products and order the products according to their own needs. He can view his pr
 
 ## Technologies used
 * Javascript
-* React.js
-* Node.js
-* Expess.js
+* React Js
+* Node Js
+* Expess Js
 * Html
 * CSS
 * Bootstrap
