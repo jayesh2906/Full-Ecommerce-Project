@@ -53,7 +53,7 @@ products and order the products according to their own needs. He can view his pr
 * Admin can search, sort, filter, Edit and Delete various products of "ICON STORE".
 
 ## Conclusion
-This website provides a computerized version of shop manipulate system which will benefit the
+This web application provides a computerized version of shop manipulate system which will benefit the
 users as well as the visitor of the shop. It makes entire process online where users can search
 product, and buy various product. It also has a facility for common user by login into the system
 where user can login and can see status of ordered, Seller can also login into the system and request admin to add various products into the system to sell. It provide the facility of admin’s login where admins can add various item, Accept or reject seller request, Review
